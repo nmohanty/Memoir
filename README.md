@@ -61,7 +61,7 @@ Personal diary attached to my calendar, using Google calendar API and a native c
     * [ ] Has a container view to coordinate all the previous text written or the "not yet text" screen if first user
     * [ ] Horizontal scroll left to see previous written texts from the most recent to the last recent
 
-* [ ] Animation from any "Read Only" VC to the corresponding "Today" VC
+* [x ] Animation from any "Read Only" VC to the corresponding "Today" VC - Namrata
     * [X ] UI Pan Gesture down goes to "Today" VC
     * [ ] The Read only text shrink into the Today small bubble view within the timeline
     * [ ] The number in the big bubbles updates based on the actual number of words written
